@@ -1,0 +1,15 @@
+
+.tox
+.tox/
+.tox/**
+
+__pycache__/**
+**/__pycache__/**
+
+venv
+venv/
+venv/**
+
+enc_field.egg-info
+enc_field.egg-info/
+enc_field.egg-info/**
